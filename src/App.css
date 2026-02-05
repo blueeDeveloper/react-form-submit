@@ -1,0 +1,29 @@
+.page-container {
+  padding: 20px 40px;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.form-container {
+  padding: 20px;
+  width: 300px;
+  border: 1px solid black;
+  border-radius: 5px;
+}
+
+.form-group {
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.save-btn {
+  margin: 20px;
+  text-align: center;
+}
+
+.form-btn {
+  text-align: center;
+}
